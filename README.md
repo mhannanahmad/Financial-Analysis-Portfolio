@@ -4,5 +4,5 @@ Welcome to my project portfolio! Here, I showcase my projects in finance, data s
 
 ## Projects
 
-- [Tesla Stock Price Prediction Using Facebook Prophet](./Tesla Stock Price Prediction)
+- [Tesla Stock Price Prediction](./Tesla Stock Price Prediction)
 
