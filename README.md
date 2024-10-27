@@ -4,5 +4,4 @@ Welcome to my project portfolio! Here, I showcase my projects in finance, data s
 
 ## Projects
 
-- [Tesla Stock Price Prediction](./Tesla Stock Price Prediction)
-
+- [Tesla Stock Price Prediction](./Tesla_Stock_Price_Prediction)
